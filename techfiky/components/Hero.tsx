@@ -9,8 +9,8 @@ const Hero = () => {
           Connect, share and grow with fellow techies.
         </p>
         <p className="text-neutral-500 my-10 text-lg">
-          TechFiky gives you the opportunity to collaborate with fellow techies
-          near you, gain knowledge and become an expert.
+          TechFiky gives you the opportunity to collaborate and broaden your skillset,
+          while connecting with like-minded tech enthusiasts.
         </p>
         <div className="flex gap-7">
           <Link href="/signup">
